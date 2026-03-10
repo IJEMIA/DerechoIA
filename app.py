@@ -1,6 +1,3 @@
-Aquí tienes el archivo `app.py` modificado. Se ha cambiado el nombre a **IA Prometeo**, se ha eliminado la temática específica anterior (colores verde/dorado, videos y enlaces externos) y se ha aplicado un estilo neutro, profesional y limpio (tonos grisáceos/blancos) para que puedas editarlo fácilmente con tu propia identidad.
-
-```python
 import streamlit as st
 from openai import OpenAI
 import os
@@ -640,4 +637,3 @@ with chat_container:
                     )
 
 st.markdown("</div>", unsafe_allow_html=True)
-```
